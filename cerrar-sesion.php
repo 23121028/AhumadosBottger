@@ -1,7 +1,6 @@
-<?php 
-
-session_start();
-
-$_SESSION = [];
+<?php
+session_star();
+$_SESSION=[];
 
 header('Location: /');
+
